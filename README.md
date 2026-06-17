@@ -45,20 +45,40 @@ Saya adalah lulusan **SMK Pustek Serpong** jurusan TKJ, dan saya saat ini mahasi
 
 ## 📌 Project Pilihan
 
-### 1. Aplikasi Absensi Fingerprint & WhatsApp Notification
-Aplikasi absensi siswa berbasis web menggunakan CodeIgniter 4 yang terhubung dengan mesin fingerprint dan WhatsApp API.
+### 1. Aplikasi School HR Management System
+Aplikasi administrasi sekolah berbasis web untuk membantu pengelolaan data guru, pegawai, siswa, serta kebutuhan administrasi dan pelaporan.
 
-**Fitur:**
-- Import data siswa dari Excel
-- Absensi masuk, terlambat, pulang, dan di luar jam
-- Notifikasi WhatsApp ke orang tua
-- Dashboard realtime
-- Export data absensi
-- Integrasi mesin fingerprint via SOAP
+## ✨ Fitur
 
-**Tech Stack:**  
-`PHP` `CodeIgniter 4` `MySQL` `Bootstrap` `JavaScript` `WhatsApp API`
+### Master Data
+- Data guru
+- Data pegawai
+- Data siswa
+- Data kelas
 
+### Administrasi
+- Manajemen pengguna
+- Hak akses pengguna
+- Import data Excel
+- Export data Excel
+- Dashboard monitoring
+
+### Laporan
+- Laporan siswa
+- Laporan guru
+- Laporan pegawai
+- Rekapitulasi data
+
+## 🏗️ Tech Stack
+
+- PHP
+- CodeIgniter 4
+- MySQL
+- Bootstrap
+- JavaScript
+- jQuery
+- DataTables
+- PhpSpreadsheet
 
 ---
 
