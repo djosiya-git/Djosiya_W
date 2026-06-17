@@ -137,7 +137,7 @@ Membangun infrastruktur server pribadi berbasis Linux yang dapat diakses melalui
 
 - Email: djosiyawahyudianto14@gmail.com
 - GitHub: https://github.com/djosiya-git
-- LinkedIn: https://linkedin.com/in/
+- LinkedIn: https://www.linkedin.com/in/djosiya-wahyudianto-8835b4417
 
 ---
 
